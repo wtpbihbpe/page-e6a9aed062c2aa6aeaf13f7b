@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "52ab04b6594011ef91d4277c",
+  "owner": "wtpbihbpe",
+  "repo": "page-e6a9aed062c2aa6aeaf13f7b",
+  "title": "溜冰猫(Skicat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e6a9aed062c2aa6aeaf13f7b",
+      "a": "溜冰猫(Skicat)",
+      "b": "2027最新官网",
+      "entity": "溜冰猫(Skicat)",
+      "brand": "溜冰猫(Skicat)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c48cac636fb21bb137b899fd12bb5ebd2c04a89eef5db8abd669be9aaa842c12",
+      "content": {
+        "primary_entity": "溜冰猫(Skicat)",
+        "keyword1": "溜冰猫(Skicat)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，溜冰猫(Skicat)围绕海外加速场景提供基础版、旗舰版与团队版三档订阅，分别适配轻量浏览、多设备流媒体与小型团队协作。基础版每月100GB流量、3台设备在线；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，配VIP高带宽节点。用户可先确认日常设备数量与流量消耗，再选择对应周期。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选择",
+          "AI_HERO_INTRO": "溜冰猫(Skicat)面向需要稳定海外连接的用户，提供基础版、旗舰版与团队版订阅。不同档位在每月流量、同时在线设备数、节点线路与支持响应上有所区分。先统计常用设备数量与月均流量，再匹配套餐与订阅周期，是较为直接的选购方式。",
+          "AI_VISUAL_TITLE": "溜冰猫订阅，按需选择档位",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，支持3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版1000GB，支持20台设备",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量档位与使用场景三个方向判断适合的订阅版本。",
+          "AI_FEATURE_TITLE_1": "按设备数量挑选",
+          "AI_FEATURE_TEXT_1": "基础版适合1至3台设备；旗舰版覆盖5台；团队版支持20台同时在线，可按家庭或小组规模选择。",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配",
+          "AI_FEATURE_TEXT_2": "每月100GB适合轻度浏览，300GB适合流媒体与游戏，1000GB适合多成员高频使用。",
+          "AI_FEATURE_TITLE_3": "按周期安排订阅",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付150元，旗舰版年付350元，团队版年付850元，可先月付体验再转年付。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，年付分别为150元、350元、850元。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，并依照客户端文档导入订阅。桌面端、移动端与路由器环境各有适配方式，建议先查看设备要求。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步即可开始使用订阅服务。",
+          "AI_STEP_TITLE_1": "选择订阅版本",
+          "AI_STEP_TEXT_1": "统计常用设备数量与月均流量，在基础版、旗舰版、团队版中选定档位与月付或年付周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "根据手机、电脑或路由器等设备，确认系统版本与客户端兼容情况，避免配置后无法正常使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照客户端文档添加订阅地址并完成连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对档位，连接更顺畅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量习惯选择溜冰猫(Skicat)订阅，前往购买页面即可开通对应版本。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "溜冰猫支持哪些设备导入订阅？",
+          "AI_FAQ_ANSWER_1": "常见桌面与移动端加速客户端均可导入订阅，具体支持列表请参考各客户端文档。不同系统版本可能存在差异，建议使用较新版本客户端。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB流量、3台设备，使用普通线路节点池；旗舰版每月300GB流量、5台设备，配备IPLC专线并优化游戏加速，同时提供优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版最多可以同时在线多少台设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持20台设备同时在线，适合小型团队或多设备用户。每月提供1000GB流量，并可申请企业定制路由与专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "基础版按年付150元，相当于每月约12.5元；旗舰版按年付350元，约每月29元；团队版按年付850元，约每月71元。按年付相比月付均有节省。",
+          "AI_FAQ_QUESTION_5": "游戏加速应该选哪个版本？",
+          "AI_FAQ_ANSWER_5": "对延迟敏感的游戏场景建议选择旗舰版，其IPLC专线针对游戏加速优化；团队版提供VIP专属高带宽节点，也适合多设备游戏与办公混合使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sdkwi.cn",
+    "host": "sdkwi.cn"
+  },
+  "file_hashes": {
+    "index.html": "62ad19a198c0671292cc19da53d9f30577da01b245eb5c0e64acec68783ccf96",
+    "sitemap.xml": "0c53c2eacd44448b54f5179e78f9eae32a90cfe8f37855964bf7893c8a239113",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50a6af9301eb50a626d0f548cedb73de79698f38144e53999fe447981225f6c7",
+    "robots.txt": "7a979a6d9bee093b856cf96d5a2be882eb658f1fca9c7abc615ac3e45b560dae",
+    "865112af7f4380d9be2c4608ff3b897b.txt": "05c6c29ce40fb83117180f9166238405155469f0c0328e93e347538b1fe37901"
+  },
+  "revision": "2b4d9e4f1613bcd10db7266a11b7bba23efb8cdd431d893cff434d594edcc36d"
+}
